@@ -1,21 +1,22 @@
 # W3C Şartnamelerini Nasıl Okumalı
+> J. David Eisenberg 28 Eylül 2001
 
 > The World Wide Web Consortium (W3C) web üzerindeki tüm teknolojilerin düzenleyicisidir. Web tasarımcısı olarak XHTML hakkında cevap aramak, ya da XSL Biçimlendirme Nesneleri ya da Ölçeklenebilir Vektör Grafikleri hakkında daha fazla şey öğrenmek için sitesini (w3.org) ziyaret etmiş olabilirsiniz.
 
 Şartnamelere baktığınız anda anında kafa karışıklığıyla geri çekilebilirsiniz.  "Bu,” dersiniz, “okunabilir değil.”  Aslında okunabilir. Ancak anahtar bir bilgi parçasına sahip olmalısınız.
 
 ## Şartname kullanım kılavuzu değildir
-> *The Bible was not meant to be read, but interpreted.*  
+> *İncilin amacı okunması değil yorumlanmasıdır.*  
   anonim
 
-Cevap aradığınızda, kullanım kılavuzua ya da kullanıcı referans kılavuzu ararken; teknolojiyi kullanmak istersiniz. W3C şartnamesinin amacı bu değildir. That’s not the purpose of a W3C specification.  The purpose of a “spec” is to tell programmers who will implement the technology what features it must have, and how they are to be implemented.
+Cevap aradığınızda, kullanım kılavuzua ya da kullanıcı referans kılavuzu ararken; teknolojiyi kullanmak istersiniz. W3C şartnamesinin amacı bu değildir. Bir şartnamenin amacı programcılara kimin teknolojiyi uygulayacağını, hangi özelliklerinin olması gerektiğini ve bu özelliklerin nasıl kodlanacağını söylemektir.
 
-It’s the difference between the owner’s manual for your car and the repair manuals. The owner’s manual tells you how to replace the windshield wiper blades. If you go to the repair manual, it will tell you the dimensions of the blades and show the parts used to attach them; you will have to use that information to piece together how to replace them.
+Hani arabanızın kullanıcı rehberiyle tamirat el kitabı arasındaki fark gibi. Kullanıcı rehberi size ön cam silecek lastiklerini nasıl değiştireceğinizi söyler. Şayet tamir el kitabına bakarsanız size silecek lastik boyutlarını ve monte etmek için gereken parçaları söyler;Değişim işleminin nasıl yapılacağını öğrenmek için siz bu bilgileri bir araya getirip kullanmak zorundasınız.
 
-If you’re working with the latest technology, there may not be any user reference material at all; the only documentation available is the specification. In such a case, learning to read the spec is a necessity, not a luxury.
+En son teknolojiyle çalışıyorsanız kullanıcı rehberi gibi bir materyal de hiç bulunmayabilir. Eldeki tek döküman şartnamedir. Böyle bir durumda şartname okumayı bilmek bir lüks değil gerekliliktir.
 
-The Structure of Specifications#section3
-Just as a repair manual might have a guide to abbreviations and legends used in the diagrams, most W3C specifications have a section that explains the document itself. For example, section 1 of the HTML and CSS specifications provides decent information on how each spec is put together, and on how to read that spec.
+## Şartnamelerin yapısı
+W3C şartnamelerinde tıpkı tamir el kitaplarında kısaltmalar ve diagramlardaki anahtar kelimelerin anlamlarını gösteren bir rehber bulunması gibi dökümanın kendisini açıklayan bir kısım bulunur. Örneğin HTML ve CSS şartnamelerinin 1. kısmı her bir şartnamenin nasıl bir araya getirildiği hakkında yeterli bilgi sunar.
 
 Words for the Wise#section4
 I hate definitions.
